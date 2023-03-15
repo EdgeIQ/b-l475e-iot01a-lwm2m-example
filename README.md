@@ -1,5 +1,7 @@
 # LWM2M example for STM32L4+ Discovery kit IoT node
 
+For using this sample you need one: [B-L4S5I-IOT01A](https://www.st.com/en/evaluation-tools/b-l4s5i-iot01a.html)
+
 The sample connects to a WiFi network (see in `main.c` to change both SSID and password).
 And connect to EdgeIQ using the Zephyr LWM2M client.
 
